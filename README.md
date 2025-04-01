@@ -92,7 +92,7 @@ The dataset contains information about bank customers, such as:
 
 **Kiran G**  
 GitHub: [kiran1-1](https://github.com/kiran1-1)  
-Email: *your_email@example.com*
+Email: *kgorija1@umbc.edu*
 
 ---
 
