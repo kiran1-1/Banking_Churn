@@ -69,3 +69,11 @@ The dataset contains information about bank customers, such as:
 ---
 
 ## 📁 Folder Structure
+Banking_Churn/
+│
+├── data/                  # Raw & processed data
+├── notebooks/             # Jupyter notebooks for EDA and modeling
+├── models/                # Saved models
+├── visuals/               # Graphs and plots
+├── banking_churn.py       # Main script (if applicable)
+└── README.md
