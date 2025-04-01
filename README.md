@@ -69,11 +69,33 @@ The dataset contains information about bank customers, such as:
 ---
 
 ## 📁 Folder Structure
-Banking_Churn/
-│
-├── data/                  # Raw & processed data
-├── notebooks/             # Jupyter notebooks for EDA and modeling
-├── models/                # Saved models
-├── visuals/               # Graphs and plots
-├── banking_churn.py       # Main script (if applicable)
-└── README.md
+
+- `Banking_Churn/`
+  - `data/` – Raw & processed data
+  - `notebooks/` – Jupyter notebooks for EDA and modeling
+  - `models/` – Saved models
+  - `visuals/` – Graphs and plots
+  - `banking_churn.py` – Main script (if applicable)
+  - `README.md` – Project overview and documentation
+
+---
+
+## 🚀 Future Enhancements
+
+- Implement real-time churn prediction using a web interface
+- Use SHAP or LIME for model explainability
+- Deploy using Flask / FastAPI + Docker
+
+---
+
+## 📬 Contact
+
+**Kiran G**  
+GitHub: [kiran1-1](https://github.com/kiran1-1)  
+Email: *your_email@example.com*
+
+---
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
